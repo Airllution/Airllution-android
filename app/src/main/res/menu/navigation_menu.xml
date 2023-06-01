@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_favorite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/full_red_heart"
+        android:title="내 장소" />
+    <item
+        android:id="@+id/item_favoirte_map"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/map"
+        android:title="지도" />
+    <item
+        android:id="@+id/item_news"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/newspaper"
+        android:title="뉴스" />
+</menu>
